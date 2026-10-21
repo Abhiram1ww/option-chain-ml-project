@@ -10,4 +10,4 @@ and handling API authentication.
 
 ## Security
 
-Never commit API secrets, access tokens, passwords, or account details.
+Never commit API secrets, access tokens, passwords, or account details. 
