@@ -1,0 +1,5 @@
+pandas
+numpy
+kiteconnect
+py_vollib
+mysql-connector-python
