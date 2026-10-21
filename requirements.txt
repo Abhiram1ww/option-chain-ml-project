@@ -2,4 +2,9 @@ pandas
 numpy
 kiteconnect
 py_vollib
+SQLAlchemy
 mysql-connector-python
+apache-airflow
+logging
+datetime
+os
